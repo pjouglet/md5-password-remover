@@ -1,18 +1,19 @@
-# MD5 Password Remover
+== MD5 Password Remover ==
 
-### Description
+License: GPLv2
 
-This plugin aim to remove entirely usage of MD5 hash as a password.  
+== Description ==
+
+This plugin aim to remove entirely usage of MD5 hash as a password.
 Once someone try to login using a password stored in MD5, this plugin reject the login
 and ask the user to use the "Forget Password" form to get a new secure password.
 
 
-### Installation
+== Installation ==
 
 Upload the plugin to your blog and activate it in the Plugin page.
 
+== Changelog ==
 
-### Changelog
-
-__1.0.0__  
+= 1.0.0 =
 First release
