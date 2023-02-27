@@ -12,7 +12,7 @@ class Md5PasswordRemover
     }
 
     private static function init_hooks() {
-        add_filter('wp_authenticate_user', array('Md5PasswordRemover', 'wp_authenticate_user'), 10, 2);
+        add_filter('wp_authenticate_user', array(new Md5PasswordRemover(), 'wp_authenticate_user'), 10, 2);
     }
 
     /**
