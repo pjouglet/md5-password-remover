@@ -1,7 +1,7 @@
 == MD5 Password Remover ==
 
 License: GPLv2
-Tested up to: 5.9
+Tested up to: 6.1
 Stable tag: 1.0.0
 
 == Description ==
