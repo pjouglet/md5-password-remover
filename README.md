@@ -14,5 +14,8 @@ Upload the plugin to your blog and activate it in the Plugin page.
 
 ### Changelog
 
+__1.0.1__
+Updated to Wordpress 6.2  
+
 __1.0.0__  
 First release
