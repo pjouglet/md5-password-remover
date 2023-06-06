@@ -3,7 +3,7 @@
 Plugin Name: MD5 Password Remover
 Plugin URI: https://github.com/pjouglet/md5-password-remover
 Description: Remove the backward compatibility with MD5 hash for passwords
-Version: 1.0.0
+Version: 1.0.1
 Author: Pierre JOUGLET
 Author URI: https://pierrejouglet.com/
 */
